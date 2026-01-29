@@ -81,5 +81,6 @@ This project outlines and implements the installation and configuration of Activ
   * Go to the "Admin" OU
   * Right-click Jane Doe > select Properties
     * Click the tab named "Member of" > select Add
-    * 
-
+    * You can now add Jane Doe to any group you would like
+      
+🎉Congratulations! You have implementated a local Active Directory and created users and groups within the virtual machine!🎉
